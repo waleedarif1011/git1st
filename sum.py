@@ -2,4 +2,4 @@ x = int(input("Enter a first number: "))
 y = int(input("Enter a second number: "))
 
 sum = x + y
-print("Sum = ", sum)
+print("Sum is  ", sum)
